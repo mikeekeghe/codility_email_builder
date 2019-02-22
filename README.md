@@ -1,0 +1,2 @@
+An application that takes first, middle and last names of staff of a company and returns standard email addresses using stipulated guidelines
+input "John Charles Doe; John Smith; Sandra Bullock; Peter Parker; John Doe; John James Doe; Mary Jane Watson-Parker" with company domin example.com  Returns: doe_john@example.com; parker_peter@example.com; watsonparker_mary@example.com; doe_john2@example.com; doe_john2@example.com; doe_jane@example.com; parker_peter2@example.com; 
